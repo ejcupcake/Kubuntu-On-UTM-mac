@@ -12,6 +12,10 @@ apt update && apt upgrade -y
 # Install kubuntu-desktop
 apt install -y kubuntu-desktop
 
+apt install -y spice-vdagent
+
+sudo apt install -y qemu-guest-agent
+
 # Reboot the system
 echo "Installation complete. Rebooting now..."
 reboot
