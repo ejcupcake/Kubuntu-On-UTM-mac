@@ -16,6 +16,10 @@ apt install -y spice-vdagent
 
 sudo apt install -y qemu-guest-agent
 
+sudo apt install spice-webdavd
+
+
+
 # Reboot the system
 echo "Installation complete. Rebooting now..."
 reboot
