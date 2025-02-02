@@ -1,6 +1,8 @@
 # Kubuntu On UTM Mac
 
  **Apple Silicon (M1, M2, etc) Mac Required**
+ 
+<img width="1648" alt="Screenshot 2025-02-02 at 12 21 58 PM" src="https://github.com/user-attachments/assets/adfe1c39-1bc2-4ea9-b641-66ddb43c265b" />
 
 ## Part 1
 
